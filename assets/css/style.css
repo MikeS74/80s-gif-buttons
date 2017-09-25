@@ -1,0 +1,32 @@
+button,
+    div,
+    form,
+    input,
+     label       {
+      margin: 10px;
+        
+    }
+#gif-form {
+    padding: 10px;
+    float: right;
+    width: 400px;
+}
+#gif-input {
+    width: 100%;
+}
+.container {width: 70%;
+}
+#gifs-view {
+    
+}
+p {margin-bottom: 10px;
+    
+}
+li {
+    float: left;
+    list-style: none;
+    margin: 10px;
+}
+
+
+
