@@ -1,7 +1,7 @@
-# HW - {giphy-api-buttons}
+# 80s GIF Buttons
 
 ## Live Link
- - https://mikes74.github.io/giphy-api-buttons/
+ - https://mikes74.github.io/80s-gif-buttons/
 
 ## Click the buttons to see GIF's from 80's movie stars. Then add your own favorite movie star buttons with the provided input field.
 
